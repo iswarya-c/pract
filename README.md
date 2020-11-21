@@ -6,7 +6,7 @@
 
 **Bold a piece of text**
 
-* Italics Text*
+*Italics Text*
 
 ~~strikethrough text~~
 
@@ -28,9 +28,9 @@ A relative link is a link that is relative to the current file. For example, if 
 
 Unordered list
 
--list item1
--list item2
--list item3
+- list item1
+- list item2
+- list item3
 
 Ordered list
 1. listitem1
