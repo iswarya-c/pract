@@ -24,7 +24,7 @@ TO create links [Google](https://www.google.com/).
 
 A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
 
-[Contribution guidelines for this project](./docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](docs/hello.js)
 
 Unordered list
 
